@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://exe336-pixel.github.io/TP-DDS/",
+  "homepage": "http://exe336-pixel.github.io/TP-DDS/",
   "dependencies": {
     "alert": "^5.1.4",
     "axios": "1.4.0",
