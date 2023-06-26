@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TP-DDS/static/css/main.6d41727e.css",
+    "main.js": "/TP-DDS/static/js/main.4b1b9d3d.js",
+    "index.html": "/TP-DDS/index.html",
+    "main.6d41727e.css.map": "/TP-DDS/static/css/main.6d41727e.css.map",
+    "main.4b1b9d3d.js.map": "/TP-DDS/static/js/main.4b1b9d3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d41727e.css",
+    "static/js/main.4b1b9d3d.js"
+  ]
+}
